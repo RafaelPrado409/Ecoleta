@@ -11,7 +11,7 @@
 
 <img src="https://i.imgur.com/i0VrbSe.png" alt="ecoleta">
 
-## About Ecoleta?
+## About Ecoleta
 
 **Ecoleta**, made to connect people and entities that are organic and inorganic residues collection points. Made up in Next Level Week #01
 
