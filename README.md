@@ -8,7 +8,7 @@
 
 ## About Ecoleta?
 
-**Ecoleta**, made to connect people and entities that are organic and inorganic residues collection points.
+**Ecoleta**, made to connect people and entities that are organic and inorganic residues collection points. Made up in Next Level Week #01
 
 You can register collection points in the web application by sending:
   - Point name
