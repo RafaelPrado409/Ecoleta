@@ -6,8 +6,6 @@
 
 <img src="https://i.imgur.com/i0VrbSe.png" alt="ecoleta">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
-
 ## About Ecoleta?
 
 **Ecoleta**, made to connect people and entities that are organic and inorganic residues collection points.
