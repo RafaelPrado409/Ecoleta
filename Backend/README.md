@@ -1,0 +1,108 @@
+![](https://img.shields.io/badge/node-12.18.0-yellowgreen)
+![](https://img.shields.io/badge/npm-6.9.0-red)
+![](https://img.shields.io/badge/-Rocketseat-blue)
+![](https://img.shields.io/badge/-TypeScript-blue)
+
+# English
+
+## What is this application?
+
+**Ecoleta API**, made to register entities that are residues collection points. made up in Next Level Week by Rocketseat.
+
+- Register collect points.
+- List collect points.
+- Filter collect points.
+
+## How do I use it?
+
+#### You should have downloaded the most stable version of [NodeJs](https://nodejs.org/en/)
+
+- This API uses SQLite as a database and can be downloaded as **sqlite3** dependency.
+- It is also necessary to install the SQLite extension to view the database.
+
+### Yarn
+
+ ``` 
+yarn 
+``` 
+to install all dependences
+
+ ``` 
+ yarn dev 
+ ``` 
+ to start the application after install the dependences
+ 
+ 
+### NPM
+
+```
+npm install
+``` 
+to install all dependences
+```
+npm run dev
+``` 
+ to start the application after install the dependences
+ 
+
+## Relevant dependencies for the project:
+
+- [express](https://github.com/expressjs/express) for creating routes;
+- [knex](http://knexjs.org/) query builf for sqlite;
+
+***Some dependences were not mentioned, to make part of the relevants***
+
+***To feedbacks and contact: santiagorafael409@gmail.com***
+
+
+# Português
+
+## O que e essa aplicação?
+
+Ecoleta API feita em node na Next Level Week da Rocketseat
+
+- Cadastro de pontos de coleta.
+- Listagem de pontos de coleta.
+- Filtragem de pontos de coleta.
+
+## Como eu a utilizo?
+
+#### Deverá ter baixada a versão mais estável do [NodeJs](https://nodejs.org/en/)
+
+- Nessa API utilizamos SQLite como o banco de dados e pode ser baixado como dependência **sqlite3**.
+- E necessário também a instalação da extensão do SQLite para a vizualização do banco
+
+Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
+
+### Yarn
+
+ ``` 
+yarn 
+``` 
+para instalar as dependências
+
+ ``` 
+ yarn dev
+ ``` 
+ para iniciar a aplicação apos a instalação das dependências
+
+ 
+### NPM
+
+```
+npm install
+``` 
+para instalar as dependências
+```
+npm run dev
+``` 
+para iniciar a aplicação apos a instalação das dependências
+
+## As principais dependências para o projeto:
+
+- [express](https://github.com/expressjs/express) para a criacão de rotas;
+- [knex](http://knexjs.org/) para a criação de query no sqlite;
+
+***Algumas dependências não foram mencionadas, por fazerem parte das principais***
+
+***Para feedbacks e contato: santiagorafael409@gmail.com***
