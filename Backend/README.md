@@ -1,7 +1,6 @@
-![](https://img.shields.io/badge/node-12.18.0-yellowgreen)
-![](https://img.shields.io/badge/npm-6.9.0-red)
-![](https://img.shields.io/badge/-Rocketseat-blue)
-![](https://img.shields.io/badge/-TypeScript-blue)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 # English
 
