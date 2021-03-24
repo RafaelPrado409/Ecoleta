@@ -1,6 +1,8 @@
-![](https://img.shields.io/badge/react-16.13.1-blue)
-![](https://img.shields.io/badge/-TypeScript-blue)
-![](https://img.shields.io/badge/-Rocketseat-blue)
+
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 # English
 
@@ -9,9 +11,6 @@
 **Ecoleta**, made to register entities that are residues collection points. Made up in Next Level Week by Rocketseat
 
 ## How do I use it?
-
-Must have installed:
-- [Reactotron](https://github.com/infinitered/reactotron) to logs view (Optional);
 
 After installation, you can use the following commands in your terminal inside the project folder or VSCode:
 
