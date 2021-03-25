@@ -119,7 +119,7 @@ npm install
 # Run the project
 npm run start
 ```
-### ***Warning***: If you cant run using a emulator, you can run with [Expo Snack](https://snack.expo.io/).
+***Warning: If you cant run using a emulator, you can run with [Expo Snack](https://snack.expo.io/).***
 
 ## 📝 Licença
 
